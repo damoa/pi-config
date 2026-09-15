@@ -1,0 +1,9 @@
+agent/models.json
+agent/models-store.json
+agent/trust.json
+agent/sessions
+agent/bin
+agent/auth.json
+agent/git
+agent/npm
+agent/self-learning-memory

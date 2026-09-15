@@ -1,0 +1,29 @@
+{
+  "defaultPolicy": {
+    "tools": "ask",
+    "bash": {
+      "*": "ask",
+      "git status": "allow",
+      "rm -rf": "deny"
+    },
+    "mcp": "ask",
+    "skills": "ask",
+    "special": "ask"
+  },
+  "tools": {
+    "*": "ask",
+    "third_party_tool": "ask",
+    "read": "allow",
+    "grep": "allow",
+    "find": "allow",
+    "ls": "allow",
+    "write": "ask",
+    "edit": "ask",
+    "bash": "ask",
+    "mcp": "ask"
+  },
+  "special": {
+    "external_directory": "ask",
+    "doom_loop": "deny"
+  }
+}
