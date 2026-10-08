@@ -29,5 +29,6 @@
       "id": "gpt-5.3-codex",
       "contextWindow": 200000
     }
-  }
+  },
+  "tuiMode": "regular"
 }
