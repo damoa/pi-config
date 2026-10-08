@@ -7,3 +7,4 @@ agent/auth.json
 agent/git
 agent/npm
 agent/self-learning-memory
+agent/crashes.json
